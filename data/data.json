@@ -1,0 +1,40 @@
+[
+  {
+    "relicName": "Axi A1",
+    "Intact": {
+      "rewards": [
+        {
+          "itemName": "Akstiletto Prime Barrel",
+          "rarity": "Uncommon",
+          "chance": 11
+        },
+        {
+          "itemName": "Trinity Prime Systems Blueprint",
+          "rarity": "Uncommon",
+          "chance": 25.33
+        },
+        {
+          "itemName": "Fragor Prime Head",
+          "rarity": "Uncommon",
+          "chance": 25.33
+        },
+        {
+          "itemName": "Dual Kamas Prime Handle",
+          "rarity": "Uncommon",
+          "chance": 11
+        },
+        {
+          "itemName": "Braton Prime Stock",
+          "rarity": "Uncommon",
+          "chance": 25.33
+        },
+        {
+          "itemName": "Nikana Prime Blueprint",
+          "rarity": "Rare",
+          "chance": 2
+        }
+      ],
+      "imageName": "axi-intact.png"
+		}
+	}
+]
