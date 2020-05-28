@@ -22,8 +22,8 @@ function parseRelicRewards(data) {
 async function getAllDrop() {
 	let wfAllDropSource = 'https://drops.warframestat.us/data/all.slim.json';
 	let wfAllDrops = JSON.parse(await request(wfAllDropSource, (err, res, body) => {
-		if(err) { console.log(err);	return }
-		console.log(`Response: ${res.statusCode} - ${res.statusMessage}\n`);
+		if(err) { console.error(err);	return }
+		console.log(`method: getAllDrop(), Response: ${res.statusCode} - ${res.statusMessage}\n`);
 		return body;
 	}));
 
@@ -33,8 +33,8 @@ async function getAllDrop() {
 async function getDrop() {
 	let wfDropSource = 'https://drops.warframestat.us/data/relics.json';
 	let wfDrops = JSON.parse(await request(wfDropSource, (err, res, body) => {
-		if(err) { console.log(err);	return }
-		console.log(`Response: ${res.statusCode} - ${res.statusMessage}\n`);
+		if(err) { console.error(err);	return }
+		console.log(`method: getDrop(), Response: ${res.statusCode} - ${res.statusMessage}\n`);
 		return body;
 	}))
 	return wfDrops;
@@ -132,21 +132,41 @@ function createDataForm(drops, items, dropLocation, maps) {
 	return data;
 }
 
-async function init() {
-	let relicData;
+const dropUrl = "https://drops.warframestat.us/data/info.json";
+
+request(dropUrl, async function(err, res, body) {
+	if(err) { console.error(err); return }
+	console.log(`Response: ${res.statusCode} - ${res.statusMessage}\n`)
+
+	let oldHash = null;
+	let hash = JSON.parse(body).hash;
+	console.log(`Response hash: ${hash}`);
+	
+	if(fs.existsSync("./public/data/info.json")) {
+		let info = require("./public/data/info.json");
+		oldHash = info.dropHash;
+		console.log("Old hash found: ", oldHash);
+	}
+
+	if(hash === oldHash) {
+		console.log("Data is lastest. nothing changed.");
+		process.exit(0);
+	}
+
 	let	wfDrop = 			await getDrop(),
 			wfAllDrop = 	await getAllDrop(),
 			wfItem = 			getItem(),
-			relicMap = 		getRelicMap(wfDrop.relics, wfItem),
+			relicMap = 		getRelicMap(wfDrop.relics, wfItem);
 
-	dropLoc = getDropLocation(wfAllDrop);
-	relicData = createDataForm(wfDrop.relics, wfItem, dropLoc, relicMap);
+	let dropLoc = getDropLocation(wfAllDrop);
+	let relicData = createDataForm(wfDrop.relics, wfItem, dropLoc, relicMap);
 
-	let hash = {
-		hash: crypto.createHash('md5').update(JSON.stringify(relicData, null, '')).digest('hex'),
+	let info = {
+		formatHash: crypto.createHash('md5').update(JSON.stringify(relicData, null, '')).digest('hex'),
+		dropHash: hash,
 	}
 	
-	fs.writeFile(path.resolve(__dirname, "public", "data", "info.json"), JSON.stringify(hash, null, ''), (err) => {
+	fs.writeFile(path.resolve(__dirname, "public", "data", "info.json"), JSON.stringify(info, null, ''), (err) => {
 		if(err) throw new Error(`The error has been occured while saving info.json: ${err}`);
 		console.log('Successfully saved info.json');
 	});
@@ -155,6 +175,4 @@ async function init() {
 		if(err) throw new Error(`The error has been occured while saving relic.json: ${err}`);
 		console.log('Successfully saved relics.json');
 	});
-}
-
-init();
+})
