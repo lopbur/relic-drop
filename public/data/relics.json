@@ -530,12 +530,12 @@
       {
         "place": "Void/Aten",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Marduk",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Mithra, Rotation C",
@@ -1566,12 +1566,12 @@
       {
         "place": "Void/Aten",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Marduk",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Mithra, Rotation C",
@@ -2312,12 +2312,12 @@
       {
         "place": "Void/Aten",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Marduk",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Mithra, Rotation C",
@@ -3048,12 +3048,12 @@
       {
         "place": "Void/Aten",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Marduk",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Mithra, Rotation C",
@@ -5099,12 +5099,12 @@
       {
         "place": "Void/Aten",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Marduk",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Mithra, Rotation C",
@@ -10546,6 +10546,151 @@
       ],
       "imageName": "axi-radiant.png"
     },
+    "dropLocations": [],
+    "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void."
+  },
+  {
+    "relicName": "Axi S7",
+    "Intact": {
+      "rewards": [
+        {
+          "itemName": "Soma Prime Stock",
+          "rarity": "Rare",
+          "chance": 2
+        },
+        {
+          "itemName": "Trinity Prime Chassis Blueprint",
+          "rarity": "Uncommon",
+          "chance": 11
+        },
+        {
+          "itemName": "Kavasa Prime Kubrow Collar Blueprint",
+          "rarity": "Uncommon",
+          "chance": 11
+        },
+        {
+          "itemName": "Forma Blueprint",
+          "rarity": "Uncommon",
+          "chance": 25.33
+        },
+        {
+          "itemName": "Nova Prime Systems Blueprint",
+          "rarity": "Uncommon",
+          "chance": 25.33
+        },
+        {
+          "itemName": "Vasto Prime Barrel",
+          "rarity": "Uncommon",
+          "chance": 25.33
+        }
+      ],
+      "imageName": "axi-intact.png"
+    },
+    "Exceptional": {
+      "rewards": [
+        {
+          "itemName": "Soma Prime Stock",
+          "rarity": "Rare",
+          "chance": 4
+        },
+        {
+          "itemName": "Trinity Prime Chassis Blueprint",
+          "rarity": "Uncommon",
+          "chance": 13
+        },
+        {
+          "itemName": "Kavasa Prime Kubrow Collar Blueprint",
+          "rarity": "Uncommon",
+          "chance": 13
+        },
+        {
+          "itemName": "Forma Blueprint",
+          "rarity": "Uncommon",
+          "chance": 23.33
+        },
+        {
+          "itemName": "Nova Prime Systems Blueprint",
+          "rarity": "Uncommon",
+          "chance": 23.33
+        },
+        {
+          "itemName": "Vasto Prime Barrel",
+          "rarity": "Uncommon",
+          "chance": 23.33
+        }
+      ],
+      "imageName": "axi-exceptional.png"
+    },
+    "Flawless": {
+      "rewards": [
+        {
+          "itemName": "Soma Prime Stock",
+          "rarity": "Rare",
+          "chance": 6
+        },
+        {
+          "itemName": "Trinity Prime Chassis Blueprint",
+          "rarity": "Uncommon",
+          "chance": 17
+        },
+        {
+          "itemName": "Kavasa Prime Kubrow Collar Blueprint",
+          "rarity": "Uncommon",
+          "chance": 17
+        },
+        {
+          "itemName": "Forma Blueprint",
+          "rarity": "Uncommon",
+          "chance": 20
+        },
+        {
+          "itemName": "Nova Prime Systems Blueprint",
+          "rarity": "Uncommon",
+          "chance": 20
+        },
+        {
+          "itemName": "Vasto Prime Barrel",
+          "rarity": "Uncommon",
+          "chance": 20
+        }
+      ],
+      "imageName": "axi-flawless.png"
+    },
+    "Radiant": {
+      "rewards": [
+        {
+          "itemName": "Soma Prime Stock",
+          "rarity": "Uncommon",
+          "chance": 10
+        },
+        {
+          "itemName": "Trinity Prime Chassis Blueprint",
+          "rarity": "Uncommon",
+          "chance": 20
+        },
+        {
+          "itemName": "Kavasa Prime Kubrow Collar Blueprint",
+          "rarity": "Uncommon",
+          "chance": 20
+        },
+        {
+          "itemName": "Forma Blueprint",
+          "rarity": "Uncommon",
+          "chance": 16.67
+        },
+        {
+          "itemName": "Nova Prime Systems Blueprint",
+          "rarity": "Uncommon",
+          "chance": 16.67
+        },
+        {
+          "itemName": "Vasto Prime Barrel",
+          "rarity": "Uncommon",
+          "chance": 16.67
+        }
+      ],
+      "imageName": "axi-radiant.png"
+    },
     "dropLocations": [
       {
         "place": "Void/Belenus, Rotation C",
@@ -10560,12 +10705,12 @@
       {
         "place": "Void/Aten",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Marduk",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Mithra, Rotation C",
@@ -11486,12 +11631,12 @@
       {
         "place": "Void/Aten",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Marduk",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Mithra, Rotation C",
@@ -11942,12 +12087,12 @@
       {
         "place": "Void/Aten",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Marduk",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Mithra, Rotation C",
@@ -15488,42 +15633,42 @@
       {
         "place": "Void/Teshub",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Hepit",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Taranis, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Taranis, Rotation B",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Void/Taranis, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Tiwaz",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Stribog",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ani, Rotation A",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Phobos/Grildrig, Rotation B",
@@ -16224,42 +16369,42 @@
       {
         "place": "Void/Teshub",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Hepit",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Taranis, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Taranis, Rotation B",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Void/Taranis, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Tiwaz",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Stribog",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ani, Rotation A",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Phobos/Grildrig, Rotation B",
@@ -16825,42 +16970,42 @@
       {
         "place": "Void/Teshub",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Hepit",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Taranis, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Taranis, Rotation B",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Void/Taranis, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Tiwaz",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Stribog",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ani, Rotation A",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Phobos/Grildrig, Rotation B",
@@ -18296,6 +18441,312 @@
     "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void."
   },
   {
+    "relicName": "Lith K4",
+    "Intact": {
+      "rewards": [
+        {
+          "itemName": "Kavasa Prime Buckle",
+          "rarity": "Rare",
+          "chance": 2
+        },
+        {
+          "itemName": "Trinity Prime Blueprint",
+          "rarity": "Uncommon",
+          "chance": 11
+        },
+        {
+          "itemName": "Soma Prime Receiver",
+          "rarity": "Uncommon",
+          "chance": 11
+        },
+        {
+          "itemName": "Nova Prime Neuroptics Blueprint",
+          "rarity": "Uncommon",
+          "chance": 25.33
+        },
+        {
+          "itemName": "Forma Blueprint",
+          "rarity": "Uncommon",
+          "chance": 25.33
+        },
+        {
+          "itemName": "Dual Kamas Prime Blueprint",
+          "rarity": "Uncommon",
+          "chance": 25.33
+        }
+      ],
+      "imageName": "lith-intact.png"
+    },
+    "Exceptional": {
+      "rewards": [
+        {
+          "itemName": "Kavasa Prime Buckle",
+          "rarity": "Rare",
+          "chance": 4
+        },
+        {
+          "itemName": "Trinity Prime Blueprint",
+          "rarity": "Uncommon",
+          "chance": 13
+        },
+        {
+          "itemName": "Soma Prime Receiver",
+          "rarity": "Uncommon",
+          "chance": 13
+        },
+        {
+          "itemName": "Nova Prime Neuroptics Blueprint",
+          "rarity": "Uncommon",
+          "chance": 23.33
+        },
+        {
+          "itemName": "Forma Blueprint",
+          "rarity": "Uncommon",
+          "chance": 23.33
+        },
+        {
+          "itemName": "Dual Kamas Prime Blueprint",
+          "rarity": "Uncommon",
+          "chance": 23.33
+        }
+      ],
+      "imageName": "lith-exceptional.png"
+    },
+    "Flawless": {
+      "rewards": [
+        {
+          "itemName": "Kavasa Prime Buckle",
+          "rarity": "Rare",
+          "chance": 6
+        },
+        {
+          "itemName": "Trinity Prime Blueprint",
+          "rarity": "Uncommon",
+          "chance": 17
+        },
+        {
+          "itemName": "Soma Prime Receiver",
+          "rarity": "Uncommon",
+          "chance": 17
+        },
+        {
+          "itemName": "Nova Prime Neuroptics Blueprint",
+          "rarity": "Uncommon",
+          "chance": 20
+        },
+        {
+          "itemName": "Forma Blueprint",
+          "rarity": "Uncommon",
+          "chance": 20
+        },
+        {
+          "itemName": "Dual Kamas Prime Blueprint",
+          "rarity": "Uncommon",
+          "chance": 20
+        }
+      ],
+      "imageName": "lith-flawless.png"
+    },
+    "Radiant": {
+      "rewards": [
+        {
+          "itemName": "Kavasa Prime Buckle",
+          "rarity": "Uncommon",
+          "chance": 10
+        },
+        {
+          "itemName": "Trinity Prime Blueprint",
+          "rarity": "Uncommon",
+          "chance": 20
+        },
+        {
+          "itemName": "Soma Prime Receiver",
+          "rarity": "Uncommon",
+          "chance": 20
+        },
+        {
+          "itemName": "Nova Prime Neuroptics Blueprint",
+          "rarity": "Uncommon",
+          "chance": 16.67
+        },
+        {
+          "itemName": "Forma Blueprint",
+          "rarity": "Uncommon",
+          "chance": 16.67
+        },
+        {
+          "itemName": "Dual Kamas Prime Blueprint",
+          "rarity": "Uncommon",
+          "chance": 16.67
+        }
+      ],
+      "imageName": "lith-radiant.png"
+    },
+    "dropLocations": [
+      {
+        "place": "Void/Teshub",
+        "rarity": "Uncommon",
+        "chance": 12.5
+      },
+      {
+        "place": "Void/Hepit",
+        "rarity": "Uncommon",
+        "chance": 12.5
+      },
+      {
+        "place": "Void/Taranis, Rotation A",
+        "rarity": "Uncommon",
+        "chance": 12.5
+      },
+      {
+        "place": "Void/Taranis, Rotation B",
+        "rarity": "Rare",
+        "chance": 9.68
+      },
+      {
+        "place": "Void/Taranis, Rotation C",
+        "rarity": "Rare",
+        "chance": 6.25
+      },
+      {
+        "place": "Void/Tiwaz",
+        "rarity": "Rare",
+        "chance": 6.25
+      },
+      {
+        "place": "Void/Stribog",
+        "rarity": "Rare",
+        "chance": 6.25
+      },
+      {
+        "place": "Void/Ani, Rotation A",
+        "rarity": "Rare",
+        "chance": 9.68
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 10 - 30 Cetus Bounty</b>), Rotation A",
+        "rarity": "Uncommon",
+        "chance": 11.11
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 10 - 30 Cetus Bounty</b>), Rotation A",
+        "rarity": "Uncommon",
+        "chance": 10.69
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 10 - 30 Cetus Bounty</b>), Rotation A",
+        "rarity": "Uncommon",
+        "chance": 25.45
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 10 - 30 Cetus Bounty</b>), Rotation B",
+        "rarity": "Uncommon",
+        "chance": 11.11
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 10 - 30 Cetus Bounty</b>), Rotation B",
+        "rarity": "Uncommon",
+        "chance": 10.69
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 10 - 30 Cetus Bounty</b>), Rotation B",
+        "rarity": "Uncommon",
+        "chance": 25.45
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 10 - 30 Cetus Bounty</b>), Rotation C",
+        "rarity": "Uncommon",
+        "chance": 11.11
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 10 - 30 Cetus Bounty</b>), Rotation C",
+        "rarity": "Uncommon",
+        "chance": 10.69
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 10 - 30 Cetus Bounty</b>), Rotation C",
+        "rarity": "Uncommon",
+        "chance": 25.45
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 5 - 15 Orb Vallis Bounty</b>), Rotation A",
+        "rarity": "Rare",
+        "chance": 2.01
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 5 - 15 Orb Vallis Bounty</b>), Rotation A",
+        "rarity": "Rare",
+        "chance": 8.33
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 5 - 15 Orb Vallis Bounty</b>), Rotation B",
+        "rarity": "Rare",
+        "chance": 2.01
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 5 - 15 Orb Vallis Bounty</b>), Rotation B",
+        "rarity": "Rare",
+        "chance": 8.33
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 5 - 15 Orb Vallis Bounty</b>), Rotation C",
+        "rarity": "Rare",
+        "chance": 2.01
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 5 - 15 Orb Vallis Bounty</b>), Rotation C",
+        "rarity": "Rare",
+        "chance": 8.33
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 10 - 30 Orb Vallis Bounty</b>), Rotation A",
+        "rarity": "Uncommon",
+        "chance": 11.11
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 10 - 30 Orb Vallis Bounty</b>), Rotation A",
+        "rarity": "Uncommon",
+        "chance": 10.34
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 10 - 30 Orb Vallis Bounty</b>), Rotation A",
+        "rarity": "Common",
+        "chance": 33.33
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 10 - 30 Orb Vallis Bounty</b>), Rotation B",
+        "rarity": "Uncommon",
+        "chance": 11.11
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 10 - 30 Orb Vallis Bounty</b>), Rotation B",
+        "rarity": "Uncommon",
+        "chance": 10.34
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 10 - 30 Orb Vallis Bounty</b>), Rotation B",
+        "rarity": "Common",
+        "chance": 33.33
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 10 - 30 Orb Vallis Bounty</b>), Rotation C",
+        "rarity": "Uncommon",
+        "chance": 11.11
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 10 - 30 Orb Vallis Bounty</b>), Rotation C",
+        "rarity": "Uncommon",
+        "chance": 10.34
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 10 - 30 Orb Vallis Bounty</b>), Rotation C",
+        "rarity": "Common",
+        "chance": 33.33
+      }
+    ],
+    "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void."
+  },
+  {
     "relicName": "Lith L1",
     "Intact": {
       "rewards": [
@@ -19596,42 +20047,42 @@
       {
         "place": "Void/Teshub",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Hepit",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Taranis, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Taranis, Rotation B",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Void/Taranis, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Tiwaz",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Stribog",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ani, Rotation A",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Phobos/Grildrig, Rotation B",
@@ -20627,42 +21078,42 @@
       {
         "place": "Void/Teshub",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Hepit",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Taranis, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Taranis, Rotation B",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Void/Taranis, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Tiwaz",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Stribog",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ani, Rotation A",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Phobos/Grildrig, Rotation B",
@@ -22813,42 +23264,42 @@
       {
         "place": "Void/Teshub",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Hepit",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Taranis, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Taranis, Rotation B",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Void/Taranis, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Tiwaz",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Stribog",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ani, Rotation A",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Phobos/Grildrig, Rotation B",
@@ -23115,118 +23566,7 @@
       ],
       "imageName": "lith-radiant.png"
     },
-    "dropLocations": [
-      {
-        "place": "Void/Teshub",
-        "rarity": "Uncommon",
-        "chance": 11.11
-      },
-      {
-        "place": "Void/Hepit",
-        "rarity": "Uncommon",
-        "chance": 11.11
-      },
-      {
-        "place": "Void/Taranis, Rotation A",
-        "rarity": "Uncommon",
-        "chance": 11.11
-      },
-      {
-        "place": "Void/Taranis, Rotation B",
-        "rarity": "Rare",
-        "chance": 8.6
-      },
-      {
-        "place": "Void/Taranis, Rotation C",
-        "rarity": "Rare",
-        "chance": 5.88
-      },
-      {
-        "place": "Void/Tiwaz",
-        "rarity": "Rare",
-        "chance": 5.88
-      },
-      {
-        "place": "Void/Stribog",
-        "rarity": "Rare",
-        "chance": 5.88
-      },
-      {
-        "place": "Void/Ani, Rotation A",
-        "rarity": "Rare",
-        "chance": 8.6
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 10 - 30 Cetus Bounty</b>), Rotation A",
-        "rarity": "Uncommon",
-        "chance": 11.11
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 10 - 30 Cetus Bounty</b>), Rotation A",
-        "rarity": "Uncommon",
-        "chance": 10.69
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 10 - 30 Cetus Bounty</b>), Rotation A",
-        "rarity": "Uncommon",
-        "chance": 25.45
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 10 - 30 Cetus Bounty</b>), Rotation C",
-        "rarity": "Uncommon",
-        "chance": 11.11
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 10 - 30 Cetus Bounty</b>), Rotation C",
-        "rarity": "Uncommon",
-        "chance": 10.69
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 10 - 30 Cetus Bounty</b>), Rotation C",
-        "rarity": "Uncommon",
-        "chance": 25.45
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 5 - 15 Orb Vallis Bounty</b>), Rotation B",
-        "rarity": "Rare",
-        "chance": 2.01
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 5 - 15 Orb Vallis Bounty</b>), Rotation B",
-        "rarity": "Rare",
-        "chance": 8.33
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 10 - 30 Orb Vallis Bounty</b>), Rotation A",
-        "rarity": "Uncommon",
-        "chance": 11.11
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 10 - 30 Orb Vallis Bounty</b>), Rotation A",
-        "rarity": "Uncommon",
-        "chance": 10.34
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 10 - 30 Orb Vallis Bounty</b>), Rotation A",
-        "rarity": "Common",
-        "chance": 33.33
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 10 - 30 Orb Vallis Bounty</b>), Rotation C",
-        "rarity": "Uncommon",
-        "chance": 11.11
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 10 - 30 Orb Vallis Bounty</b>), Rotation C",
-        "rarity": "Uncommon",
-        "chance": 10.34
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 10 - 30 Orb Vallis Bounty</b>), Rotation C",
-        "rarity": "Common",
-        "chance": 33.33
-      }
-    ],
+    "dropLocations": [],
     "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void."
   },
   {
@@ -23661,98 +24001,7 @@
       ],
       "imageName": "lith-radiant.png"
     },
-    "dropLocations": [
-      {
-        "place": "Void/Teshub",
-        "rarity": "Uncommon",
-        "chance": 11.11
-      },
-      {
-        "place": "Void/Hepit",
-        "rarity": "Uncommon",
-        "chance": 11.11
-      },
-      {
-        "place": "Void/Taranis, Rotation A",
-        "rarity": "Uncommon",
-        "chance": 11.11
-      },
-      {
-        "place": "Void/Taranis, Rotation B",
-        "rarity": "Rare",
-        "chance": 8.6
-      },
-      {
-        "place": "Void/Taranis, Rotation C",
-        "rarity": "Rare",
-        "chance": 5.88
-      },
-      {
-        "place": "Void/Tiwaz",
-        "rarity": "Rare",
-        "chance": 5.88
-      },
-      {
-        "place": "Void/Stribog",
-        "rarity": "Rare",
-        "chance": 5.88
-      },
-      {
-        "place": "Void/Ani, Rotation A",
-        "rarity": "Rare",
-        "chance": 8.6
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 10 - 30 Cetus Bounty</b>), Rotation B",
-        "rarity": "Uncommon",
-        "chance": 11.11
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 10 - 30 Cetus Bounty</b>), Rotation B",
-        "rarity": "Uncommon",
-        "chance": 10.69
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 10 - 30 Cetus Bounty</b>), Rotation B",
-        "rarity": "Uncommon",
-        "chance": 25.45
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 5 - 15 Orb Vallis Bounty</b>), Rotation A",
-        "rarity": "Rare",
-        "chance": 2.01
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 5 - 15 Orb Vallis Bounty</b>), Rotation A",
-        "rarity": "Rare",
-        "chance": 8.33
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 5 - 15 Orb Vallis Bounty</b>), Rotation C",
-        "rarity": "Rare",
-        "chance": 2.01
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 5 - 15 Orb Vallis Bounty</b>), Rotation C",
-        "rarity": "Rare",
-        "chance": 8.33
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 10 - 30 Orb Vallis Bounty</b>), Rotation B",
-        "rarity": "Uncommon",
-        "chance": 11.11
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 10 - 30 Orb Vallis Bounty</b>), Rotation B",
-        "rarity": "Uncommon",
-        "chance": 10.34
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 10 - 30 Orb Vallis Bounty</b>), Rotation B",
-        "rarity": "Common",
-        "chance": 33.33
-      }
-    ],
+    "dropLocations": [],
     "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void."
   },
   {
@@ -25491,42 +25740,42 @@
       {
         "place": "Void/Teshub",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Hepit",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Taranis, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Taranis, Rotation B",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Void/Taranis, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Tiwaz",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Stribog",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ani, Rotation A",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Phobos/Grildrig, Rotation B",
@@ -27267,17 +27516,17 @@
       {
         "place": "Void/Taranis, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Tiwaz",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Stribog",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ani, Rotation A",
@@ -27292,22 +27541,22 @@
       {
         "place": "Void/Ani, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ukko",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Oxomoco",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation A",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Phobos/Drunlo, Rotation B",
@@ -28403,17 +28652,17 @@
       {
         "place": "Void/Taranis, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Tiwaz",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Stribog",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ani, Rotation A",
@@ -28428,22 +28677,22 @@
       {
         "place": "Void/Ani, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ukko",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Oxomoco",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation A",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Phobos/Drunlo, Rotation B",
@@ -29099,17 +29348,17 @@
       {
         "place": "Void/Taranis, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Tiwaz",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Stribog",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ani, Rotation A",
@@ -29124,22 +29373,22 @@
       {
         "place": "Void/Ani, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ukko",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Oxomoco",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation A",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Phobos/Drunlo, Rotation B",
@@ -30260,17 +30509,17 @@
       {
         "place": "Void/Taranis, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Tiwaz",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Stribog",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ani, Rotation A",
@@ -30285,22 +30534,22 @@
       {
         "place": "Void/Ani, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ukko",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Oxomoco",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation A",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Phobos/Drunlo, Rotation B",
@@ -30381,6 +30630,292 @@
         "place": "Ground Assault, Rotation C",
         "rarity": "Uncommon",
         "chance": 12.5
+      }
+    ],
+    "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void."
+  },
+  {
+    "relicName": "Meso D5",
+    "Intact": {
+      "rewards": [
+        {
+          "itemName": "Dual Kamas Prime Blade",
+          "rarity": "Rare",
+          "chance": 2
+        },
+        {
+          "itemName": "Nova Prime Blueprint",
+          "rarity": "Uncommon",
+          "chance": 11
+        },
+        {
+          "itemName": "Vasto Prime Blueprint",
+          "rarity": "Uncommon",
+          "chance": 11
+        },
+        {
+          "itemName": "Trinity Prime Neuroptics Blueprint",
+          "rarity": "Uncommon",
+          "chance": 25.33
+        },
+        {
+          "itemName": "Soma Prime Barrel",
+          "rarity": "Uncommon",
+          "chance": 25.33
+        },
+        {
+          "itemName": "Forma Blueprint",
+          "rarity": "Uncommon",
+          "chance": 25.33
+        }
+      ],
+      "imageName": "meso-intact.png"
+    },
+    "Exceptional": {
+      "rewards": [
+        {
+          "itemName": "Dual Kamas Prime Blade",
+          "rarity": "Rare",
+          "chance": 4
+        },
+        {
+          "itemName": "Nova Prime Blueprint",
+          "rarity": "Uncommon",
+          "chance": 13
+        },
+        {
+          "itemName": "Vasto Prime Blueprint",
+          "rarity": "Uncommon",
+          "chance": 13
+        },
+        {
+          "itemName": "Trinity Prime Neuroptics Blueprint",
+          "rarity": "Uncommon",
+          "chance": 23.33
+        },
+        {
+          "itemName": "Soma Prime Barrel",
+          "rarity": "Uncommon",
+          "chance": 23.33
+        },
+        {
+          "itemName": "Forma Blueprint",
+          "rarity": "Uncommon",
+          "chance": 23.33
+        }
+      ],
+      "imageName": "meso-exceptional.png"
+    },
+    "Flawless": {
+      "rewards": [
+        {
+          "itemName": "Dual Kamas Prime Blade",
+          "rarity": "Rare",
+          "chance": 6
+        },
+        {
+          "itemName": "Nova Prime Blueprint",
+          "rarity": "Uncommon",
+          "chance": 17
+        },
+        {
+          "itemName": "Vasto Prime Blueprint",
+          "rarity": "Uncommon",
+          "chance": 17
+        },
+        {
+          "itemName": "Trinity Prime Neuroptics Blueprint",
+          "rarity": "Uncommon",
+          "chance": 20
+        },
+        {
+          "itemName": "Soma Prime Barrel",
+          "rarity": "Uncommon",
+          "chance": 20
+        },
+        {
+          "itemName": "Forma Blueprint",
+          "rarity": "Uncommon",
+          "chance": 20
+        }
+      ],
+      "imageName": "meso-flawless.png"
+    },
+    "Radiant": {
+      "rewards": [
+        {
+          "itemName": "Dual Kamas Prime Blade",
+          "rarity": "Uncommon",
+          "chance": 10
+        },
+        {
+          "itemName": "Nova Prime Blueprint",
+          "rarity": "Uncommon",
+          "chance": 20
+        },
+        {
+          "itemName": "Vasto Prime Blueprint",
+          "rarity": "Uncommon",
+          "chance": 20
+        },
+        {
+          "itemName": "Trinity Prime Neuroptics Blueprint",
+          "rarity": "Uncommon",
+          "chance": 16.67
+        },
+        {
+          "itemName": "Soma Prime Barrel",
+          "rarity": "Uncommon",
+          "chance": 16.67
+        },
+        {
+          "itemName": "Forma Blueprint",
+          "rarity": "Uncommon",
+          "chance": 16.67
+        }
+      ],
+      "imageName": "meso-radiant.png"
+    },
+    "dropLocations": [
+      {
+        "place": "Void/Taranis, Rotation B",
+        "rarity": "Rare",
+        "chance": 2.82
+      },
+      {
+        "place": "Void/Taranis, Rotation C",
+        "rarity": "Rare",
+        "chance": 6.25
+      },
+      {
+        "place": "Void/Tiwaz",
+        "rarity": "Rare",
+        "chance": 6.25
+      },
+      {
+        "place": "Void/Stribog",
+        "rarity": "Rare",
+        "chance": 6.25
+      },
+      {
+        "place": "Void/Ani, Rotation A",
+        "rarity": "Rare",
+        "chance": 2.82
+      },
+      {
+        "place": "Void/Ani, Rotation B",
+        "rarity": "Rare",
+        "chance": 9.68
+      },
+      {
+        "place": "Void/Ani, Rotation C",
+        "rarity": "Rare",
+        "chance": 6.25
+      },
+      {
+        "place": "Void/Ukko",
+        "rarity": "Rare",
+        "chance": 6.25
+      },
+      {
+        "place": "Void/Oxomoco",
+        "rarity": "Rare",
+        "chance": 6.25
+      },
+      {
+        "place": "Void/Belenus, Rotation A",
+        "rarity": "Rare",
+        "chance": 6.25
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 20 - 40 Cetus Bounty</b>), Rotation A",
+        "rarity": "Uncommon",
+        "chance": 13.68
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 20 - 40 Cetus Bounty</b>), Rotation A",
+        "rarity": "Uncommon",
+        "chance": 13.4
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 20 - 40 Cetus Bounty</b>), Rotation A",
+        "rarity": "Common",
+        "chance": 33.33
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 20 - 40 Cetus Bounty</b>), Rotation B",
+        "rarity": "Uncommon",
+        "chance": 15.05
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 20 - 40 Cetus Bounty</b>), Rotation B",
+        "rarity": "Uncommon",
+        "chance": 14.74
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 20 - 40 Cetus Bounty</b>), Rotation B",
+        "rarity": "Common",
+        "chance": 34.15
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 20 - 40 Cetus Bounty</b>), Rotation C",
+        "rarity": "Uncommon",
+        "chance": 15.96
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 20 - 40 Cetus Bounty</b>), Rotation C",
+        "rarity": "Uncommon",
+        "chance": 15.63
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 20 - 40 Cetus Bounty</b>), Rotation C",
+        "rarity": "Common",
+        "chance": 35.71
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 20 - 40 Orb Vallis Bounty</b>), Rotation A",
+        "rarity": "Uncommon",
+        "chance": 25
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 20 - 40 Orb Vallis Bounty</b>), Rotation A",
+        "rarity": "Uncommon",
+        "chance": 22.22
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 20 - 40 Orb Vallis Bounty</b>), Rotation A",
+        "rarity": "Common",
+        "chance": 50
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 20 - 40 Orb Vallis Bounty</b>), Rotation B",
+        "rarity": "Uncommon",
+        "chance": 25
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 20 - 40 Orb Vallis Bounty</b>), Rotation B",
+        "rarity": "Uncommon",
+        "chance": 22.22
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 20 - 40 Orb Vallis Bounty</b>), Rotation B",
+        "rarity": "Common",
+        "chance": 50
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 20 - 40 Orb Vallis Bounty</b>), Rotation C",
+        "rarity": "Uncommon",
+        "chance": 25
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 20 - 40 Orb Vallis Bounty</b>), Rotation C",
+        "rarity": "Uncommon",
+        "chance": 22.22
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 20 - 40 Orb Vallis Bounty</b>), Rotation C",
+        "rarity": "Common",
+        "chance": 50
       }
     ],
     "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void."
@@ -31396,17 +31931,17 @@
       {
         "place": "Void/Taranis, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Tiwaz",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Stribog",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ani, Rotation A",
@@ -31421,22 +31956,22 @@
       {
         "place": "Void/Ani, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ukko",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Oxomoco",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation A",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Phobos/Drunlo, Rotation B",
@@ -34882,17 +35417,17 @@
       {
         "place": "Void/Taranis, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Tiwaz",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Stribog",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ani, Rotation A",
@@ -34907,22 +35442,22 @@
       {
         "place": "Void/Ani, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ukko",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Oxomoco",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation A",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Phobos/Drunlo, Rotation B",
@@ -35584,148 +36119,7 @@
       ],
       "imageName": "meso-radiant.png"
     },
-    "dropLocations": [
-      {
-        "place": "Void/Taranis, Rotation B",
-        "rarity": "Rare",
-        "chance": 2.82
-      },
-      {
-        "place": "Void/Taranis, Rotation C",
-        "rarity": "Rare",
-        "chance": 5.88
-      },
-      {
-        "place": "Void/Tiwaz",
-        "rarity": "Rare",
-        "chance": 5.88
-      },
-      {
-        "place": "Void/Stribog",
-        "rarity": "Rare",
-        "chance": 5.88
-      },
-      {
-        "place": "Void/Ani, Rotation A",
-        "rarity": "Rare",
-        "chance": 2.82
-      },
-      {
-        "place": "Void/Ani, Rotation B",
-        "rarity": "Rare",
-        "chance": 9.68
-      },
-      {
-        "place": "Void/Ani, Rotation C",
-        "rarity": "Rare",
-        "chance": 5.88
-      },
-      {
-        "place": "Void/Ukko",
-        "rarity": "Rare",
-        "chance": 5.88
-      },
-      {
-        "place": "Void/Oxomoco",
-        "rarity": "Rare",
-        "chance": 5.88
-      },
-      {
-        "place": "Void/Belenus, Rotation A",
-        "rarity": "Rare",
-        "chance": 5.88
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 20 - 40 Cetus Bounty</b>), Rotation A",
-        "rarity": "Uncommon",
-        "chance": 13.68
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 20 - 40 Cetus Bounty</b>), Rotation A",
-        "rarity": "Uncommon",
-        "chance": 13.4
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 20 - 40 Cetus Bounty</b>), Rotation A",
-        "rarity": "Common",
-        "chance": 33.33
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 20 - 40 Cetus Bounty</b>), Rotation B",
-        "rarity": "Uncommon",
-        "chance": 15.05
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 20 - 40 Cetus Bounty</b>), Rotation B",
-        "rarity": "Uncommon",
-        "chance": 14.74
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 20 - 40 Cetus Bounty</b>), Rotation B",
-        "rarity": "Common",
-        "chance": 34.15
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 20 - 40 Cetus Bounty</b>), Rotation C",
-        "rarity": "Uncommon",
-        "chance": 15.96
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 20 - 40 Cetus Bounty</b>), Rotation C",
-        "rarity": "Uncommon",
-        "chance": 15.63
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 20 - 40 Cetus Bounty</b>), Rotation C",
-        "rarity": "Common",
-        "chance": 35.71
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 20 - 40 Orb Vallis Bounty</b>), Rotation A",
-        "rarity": "Uncommon",
-        "chance": 25
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 20 - 40 Orb Vallis Bounty</b>), Rotation A",
-        "rarity": "Uncommon",
-        "chance": 22.22
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 20 - 40 Orb Vallis Bounty</b>), Rotation A",
-        "rarity": "Common",
-        "chance": 50
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 20 - 40 Orb Vallis Bounty</b>), Rotation B",
-        "rarity": "Uncommon",
-        "chance": 25
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 20 - 40 Orb Vallis Bounty</b>), Rotation B",
-        "rarity": "Uncommon",
-        "chance": 22.22
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 20 - 40 Orb Vallis Bounty</b>), Rotation B",
-        "rarity": "Common",
-        "chance": 50
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 20 - 40 Orb Vallis Bounty</b>), Rotation C",
-        "rarity": "Uncommon",
-        "chance": 25
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 20 - 40 Orb Vallis Bounty</b>), Rotation C",
-        "rarity": "Uncommon",
-        "chance": 22.22
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 20 - 40 Orb Vallis Bounty</b>), Rotation C",
-        "rarity": "Common",
-        "chance": 50
-      }
-    ],
+    "dropLocations": [],
     "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void."
   },
   {
@@ -36739,17 +37133,17 @@
       {
         "place": "Void/Taranis, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Tiwaz",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Stribog",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ani, Rotation A",
@@ -36764,22 +37158,22 @@
       {
         "place": "Void/Ani, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ukko",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Oxomoco",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation A",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Phobos/Drunlo, Rotation B",
@@ -40885,67 +41279,67 @@
       {
         "place": "Void/Ani, Rotation B",
         "rarity": "Rare",
-        "chance": 2.51
+        "chance": 2.82
       },
       {
         "place": "Void/Ani, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ukko",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Oxomoco",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation A",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Belenus, Rotation C",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Void/Mot, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Mot, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Aten",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Marduk",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Mithra, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Mithra, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Phobos/Opik, Rotation C",
@@ -42942,133 +43336,7 @@
       ],
       "imageName": "neo-radiant.png"
     },
-    "dropLocations": [
-      {
-        "place": "Void/Ani, Rotation B",
-        "rarity": "Rare",
-        "chance": 2.51
-      },
-      {
-        "place": "Void/Ani, Rotation C",
-        "rarity": "Rare",
-        "chance": 5.88
-      },
-      {
-        "place": "Void/Ukko",
-        "rarity": "Rare",
-        "chance": 5.88
-      },
-      {
-        "place": "Void/Oxomoco",
-        "rarity": "Rare",
-        "chance": 5.88
-      },
-      {
-        "place": "Void/Belenus, Rotation A",
-        "rarity": "Rare",
-        "chance": 5.88
-      },
-      {
-        "place": "Void/Belenus, Rotation B",
-        "rarity": "Uncommon",
-        "chance": 11.11
-      },
-      {
-        "place": "Void/Belenus, Rotation C",
-        "rarity": "Rare",
-        "chance": 8.6
-      },
-      {
-        "place": "Void/Mot, Rotation A",
-        "rarity": "Uncommon",
-        "chance": 11.11
-      },
-      {
-        "place": "Void/Mot, Rotation B",
-        "rarity": "Uncommon",
-        "chance": 11.11
-      },
-      {
-        "place": "Void/Aten",
-        "rarity": "Rare",
-        "chance": 5.88
-      },
-      {
-        "place": "Void/Marduk",
-        "rarity": "Rare",
-        "chance": 5.88
-      },
-      {
-        "place": "Void/Mithra, Rotation A",
-        "rarity": "Uncommon",
-        "chance": 11.11
-      },
-      {
-        "place": "Void/Mithra, Rotation B",
-        "rarity": "Uncommon",
-        "chance": 11.11
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 30 - 50 Cetus Bounty</b>), Rotation B",
-        "rarity": "Uncommon",
-        "chance": 15.96
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 30 - 50 Cetus Bounty</b>), Rotation B",
-        "rarity": "Uncommon",
-        "chance": 15.63
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 30 - 50 Cetus Bounty</b>), Rotation B",
-        "rarity": "Common",
-        "chance": 35.71
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 40 - 50 Ghoul Bounty</b>), Rotation A",
-        "rarity": "Common",
-        "chance": 33.33
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 40 - 50 Ghoul Bounty</b>), Rotation A",
-        "rarity": "Uncommon",
-        "chance": 11.74
-      },
-      {
-        "place": "Earth/Cetus (<b>Level 40 - 50 Ghoul Bounty</b>), Rotation A",
-        "rarity": "Uncommon",
-        "chance": 10.29
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 30 - 50 Orb Vallis Bounty</b>), Rotation A",
-        "rarity": "Uncommon",
-        "chance": 18.52
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 30 - 50 Orb Vallis Bounty</b>), Rotation A",
-        "rarity": "Uncommon",
-        "chance": 16.48
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 30 - 50 Orb Vallis Bounty</b>), Rotation A",
-        "rarity": "Common",
-        "chance": 51.72
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 30 - 50 Orb Vallis Bounty</b>), Rotation C",
-        "rarity": "Uncommon",
-        "chance": 18.52
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 30 - 50 Orb Vallis Bounty</b>), Rotation C",
-        "rarity": "Uncommon",
-        "chance": 16.48
-      },
-      {
-        "place": "Venus/Orb Vallis (<b>Level 30 - 50 Orb Vallis Bounty</b>), Rotation C",
-        "rarity": "Common",
-        "chance": 51.72
-      }
-    ],
+    "dropLocations": [],
     "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void."
   },
   {
@@ -44042,67 +44310,67 @@
       {
         "place": "Void/Ani, Rotation B",
         "rarity": "Rare",
-        "chance": 2.51
+        "chance": 2.82
       },
       {
         "place": "Void/Ani, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ukko",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Oxomoco",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation A",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Belenus, Rotation C",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Void/Mot, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Mot, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Aten",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Marduk",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Mithra, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Mithra, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Phobos/Opik, Rotation C",
@@ -45503,67 +45771,67 @@
       {
         "place": "Void/Ani, Rotation B",
         "rarity": "Rare",
-        "chance": 2.51
+        "chance": 2.82
       },
       {
         "place": "Void/Ani, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ukko",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Oxomoco",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation A",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Belenus, Rotation C",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Void/Mot, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Mot, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Aten",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Marduk",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Mithra, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Mithra, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Phobos/Opik, Rotation C",
@@ -46110,71 +46378,216 @@
       ],
       "imageName": "neo-radiant.png"
     },
+    "dropLocations": [],
+    "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void."
+  },
+  {
+    "relicName": "Neo N12",
+    "Intact": {
+      "rewards": [
+        {
+          "itemName": "Nova Prime Chassis Blueprint",
+          "rarity": "Rare",
+          "chance": 2
+        },
+        {
+          "itemName": "Dual Kamas Prime Handle",
+          "rarity": "Uncommon",
+          "chance": 11
+        },
+        {
+          "itemName": "Kavasa Prime Band",
+          "rarity": "Uncommon",
+          "chance": 11
+        },
+        {
+          "itemName": "Trinity Prime Systems Blueprint",
+          "rarity": "Uncommon",
+          "chance": 25.33
+        },
+        {
+          "itemName": "Soma Prime Blueprint",
+          "rarity": "Uncommon",
+          "chance": 25.33
+        },
+        {
+          "itemName": "Vasto Prime Receiver",
+          "rarity": "Uncommon",
+          "chance": 25.33
+        }
+      ],
+      "imageName": "neo-intact.png"
+    },
+    "Exceptional": {
+      "rewards": [
+        {
+          "itemName": "Nova Prime Chassis Blueprint",
+          "rarity": "Rare",
+          "chance": 4
+        },
+        {
+          "itemName": "Dual Kamas Prime Handle",
+          "rarity": "Uncommon",
+          "chance": 13
+        },
+        {
+          "itemName": "Kavasa Prime Band",
+          "rarity": "Uncommon",
+          "chance": 13
+        },
+        {
+          "itemName": "Trinity Prime Systems Blueprint",
+          "rarity": "Uncommon",
+          "chance": 23.33
+        },
+        {
+          "itemName": "Soma Prime Blueprint",
+          "rarity": "Uncommon",
+          "chance": 23.33
+        },
+        {
+          "itemName": "Vasto Prime Receiver",
+          "rarity": "Uncommon",
+          "chance": 23.33
+        }
+      ],
+      "imageName": "neo-exceptional.png"
+    },
+    "Flawless": {
+      "rewards": [
+        {
+          "itemName": "Nova Prime Chassis Blueprint",
+          "rarity": "Rare",
+          "chance": 6
+        },
+        {
+          "itemName": "Dual Kamas Prime Handle",
+          "rarity": "Uncommon",
+          "chance": 17
+        },
+        {
+          "itemName": "Kavasa Prime Band",
+          "rarity": "Uncommon",
+          "chance": 17
+        },
+        {
+          "itemName": "Trinity Prime Systems Blueprint",
+          "rarity": "Uncommon",
+          "chance": 20
+        },
+        {
+          "itemName": "Soma Prime Blueprint",
+          "rarity": "Uncommon",
+          "chance": 20
+        },
+        {
+          "itemName": "Vasto Prime Receiver",
+          "rarity": "Uncommon",
+          "chance": 20
+        }
+      ],
+      "imageName": "neo-flawless.png"
+    },
+    "Radiant": {
+      "rewards": [
+        {
+          "itemName": "Nova Prime Chassis Blueprint",
+          "rarity": "Uncommon",
+          "chance": 10
+        },
+        {
+          "itemName": "Dual Kamas Prime Handle",
+          "rarity": "Uncommon",
+          "chance": 20
+        },
+        {
+          "itemName": "Kavasa Prime Band",
+          "rarity": "Uncommon",
+          "chance": 20
+        },
+        {
+          "itemName": "Trinity Prime Systems Blueprint",
+          "rarity": "Uncommon",
+          "chance": 16.67
+        },
+        {
+          "itemName": "Soma Prime Blueprint",
+          "rarity": "Uncommon",
+          "chance": 16.67
+        },
+        {
+          "itemName": "Vasto Prime Receiver",
+          "rarity": "Uncommon",
+          "chance": 16.67
+        }
+      ],
+      "imageName": "neo-radiant.png"
+    },
     "dropLocations": [
       {
         "place": "Void/Ani, Rotation B",
         "rarity": "Rare",
-        "chance": 2.51
+        "chance": 2.82
       },
       {
         "place": "Void/Ani, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ukko",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Oxomoco",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation A",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Belenus, Rotation C",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Void/Mot, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Mot, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Aten",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Marduk",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Mithra, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Mithra, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Earth/Cetus (<b>Level 30 - 50 Cetus Bounty</b>), Rotation A",
@@ -46188,6 +46601,21 @@
       },
       {
         "place": "Earth/Cetus (<b>Level 30 - 50 Cetus Bounty</b>), Rotation A",
+        "rarity": "Common",
+        "chance": 35.71
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 30 - 50 Cetus Bounty</b>), Rotation B",
+        "rarity": "Uncommon",
+        "chance": 15.96
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 30 - 50 Cetus Bounty</b>), Rotation B",
+        "rarity": "Uncommon",
+        "chance": 15.63
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 30 - 50 Cetus Bounty</b>), Rotation B",
         "rarity": "Common",
         "chance": 35.71
       },
@@ -46222,6 +46650,36 @@
         "chance": 10.29
       },
       {
+        "place": "Earth/Cetus (<b>Level 40 - 50 Ghoul Bounty</b>), Rotation A",
+        "rarity": "Common",
+        "chance": 33.33
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 40 - 50 Ghoul Bounty</b>), Rotation A",
+        "rarity": "Uncommon",
+        "chance": 11.74
+      },
+      {
+        "place": "Earth/Cetus (<b>Level 40 - 50 Ghoul Bounty</b>), Rotation A",
+        "rarity": "Uncommon",
+        "chance": 10.29
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 30 - 50 Orb Vallis Bounty</b>), Rotation A",
+        "rarity": "Uncommon",
+        "chance": 18.52
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 30 - 50 Orb Vallis Bounty</b>), Rotation A",
+        "rarity": "Uncommon",
+        "chance": 16.48
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 30 - 50 Orb Vallis Bounty</b>), Rotation A",
+        "rarity": "Common",
+        "chance": 51.72
+      },
+      {
         "place": "Venus/Orb Vallis (<b>Level 30 - 50 Orb Vallis Bounty</b>), Rotation B",
         "rarity": "Uncommon",
         "chance": 18.52
@@ -46233,6 +46691,21 @@
       },
       {
         "place": "Venus/Orb Vallis (<b>Level 30 - 50 Orb Vallis Bounty</b>), Rotation B",
+        "rarity": "Common",
+        "chance": 51.72
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 30 - 50 Orb Vallis Bounty</b>), Rotation C",
+        "rarity": "Uncommon",
+        "chance": 18.52
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 30 - 50 Orb Vallis Bounty</b>), Rotation C",
+        "rarity": "Uncommon",
+        "chance": 16.48
+      },
+      {
+        "place": "Venus/Orb Vallis (<b>Level 30 - 50 Orb Vallis Bounty</b>), Rotation C",
         "rarity": "Common",
         "chance": 51.72
       }
@@ -48080,67 +48553,67 @@
       {
         "place": "Void/Ani, Rotation B",
         "rarity": "Rare",
-        "chance": 2.51
+        "chance": 2.82
       },
       {
         "place": "Void/Ani, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ukko",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Oxomoco",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation A",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Belenus, Rotation C",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Void/Mot, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Mot, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Aten",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Marduk",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Mithra, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Mithra, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Phobos/Opik, Rotation C",
@@ -49246,67 +49719,67 @@
       {
         "place": "Void/Ani, Rotation B",
         "rarity": "Rare",
-        "chance": 2.51
+        "chance": 2.82
       },
       {
         "place": "Void/Ani, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ukko",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Oxomoco",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation A",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Belenus, Rotation C",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Void/Mot, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Mot, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Aten",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Marduk",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Mithra, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Mithra, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Phobos/Opik, Rotation C",
@@ -51842,67 +52315,67 @@
       {
         "place": "Void/Ani, Rotation B",
         "rarity": "Rare",
-        "chance": 2.51
+        "chance": 2.82
       },
       {
         "place": "Void/Ani, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ukko",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Oxomoco",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation A",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Belenus, Rotation C",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Void/Mot, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Mot, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Aten",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Marduk",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Mithra, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Mithra, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Phobos/Opik, Rotation C",
@@ -54293,67 +54766,67 @@
       {
         "place": "Void/Ani, Rotation B",
         "rarity": "Rare",
-        "chance": 2.51
+        "chance": 2.82
       },
       {
         "place": "Void/Ani, Rotation C",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Ukko",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Oxomoco",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation A",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Belenus, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Belenus, Rotation C",
         "rarity": "Rare",
-        "chance": 8.6
+        "chance": 9.68
       },
       {
         "place": "Void/Mot, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Mot, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Aten",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Marduk",
         "rarity": "Rare",
-        "chance": 5.88
+        "chance": 6.25
       },
       {
         "place": "Void/Mithra, Rotation A",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Void/Mithra, Rotation B",
         "rarity": "Uncommon",
-        "chance": 11.11
+        "chance": 12.5
       },
       {
         "place": "Phobos/Opik, Rotation C",
