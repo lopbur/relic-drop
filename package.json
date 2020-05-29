@@ -7,5 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^39.2.0",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.8",
+    "vue-i18n": "^8.18.1"
+  }
 }
